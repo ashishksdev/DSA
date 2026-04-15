@@ -1,6 +1,6 @@
 package DataStructures.Array.Easy;
 
-// Problem #DAE01 SortedArray (D: Data structure | A: Array | E: Easy | numbering 01)
+// Problem #DArE01 SortedArray (D: Data structure | A: Array | E: Easy | numbering 01)
 public class SortedArray {
     // Function to check if an array is sorted (increasing order).
     static boolean isArraySorted(int[] arr){
