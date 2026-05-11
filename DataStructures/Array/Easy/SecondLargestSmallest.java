@@ -1,7 +1,6 @@
 package DataStructures.Array.Easy;
 // Problem #DArE07: Given an array, find the second smallest and second largest element in the array. Print ‘-1’ in the event that either of them doesn’t exist.
 
-
 public class SecondLargestSmallest {
 
     static void smallAndLarge(int[] nums){
@@ -33,7 +32,6 @@ public class SecondLargestSmallest {
                 secondSmall = nums[i];
             }
         }
-
         System.out.printf("Large: %d\nSecond Large: %d\nSecond small: %d\nSmall: %d", large,secondLarge,secondSmall,small);
     }
 
